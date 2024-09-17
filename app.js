@@ -5,7 +5,7 @@ function pesquisar() {
 
   if (!campoPesquisa) {
     section.innerHTML =
-      "<p>Nada foi encontrado. Você precisa digitar o nome de um atleta ou esporte</p>";
+      "<p>Nada foi encontrado. Você precisa digitar o nome de um livro ou escritor</p>";
     return;
   }
 
@@ -33,6 +33,7 @@ function pesquisar() {
               </h2>
               <p class="descricao-meta">${dado.descricao}</p>
               <a href=${dado.link} target="_blank">Mais informações</a>
+              <a href=${dado.linkof} target="_blank">Ofertas deste livro</a>
           </div>
       `;
     }
