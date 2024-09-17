@@ -62,5 +62,4 @@ let dados = [
     linkof:
       "https://www.amazon.com.br/Moreninha-Joaquim-Manuel-Macedo/dp/8535918561/ref=sr_1_1?crid=213023025&keywords=a+moreninha&qid=1575854867", // Link para a compra do livro na Amazon
   },
-  {},
 ];
