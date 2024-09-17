@@ -54,6 +54,7 @@ section button {
   margin-top: 1rem;
   padding: 1rem;
   border-radius: 0.6rem;
+  gap: 0.25rem;
 }
 
 .item-resultado {

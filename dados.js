@@ -48,9 +48,19 @@ let dados = [
     titulo: "Orgulho e Preconceito",
     descricao:
       "Orgulho e Preconceito, de Jane Austen, é um clássico da literatura inglesa que narra a história de amor entre Elizabeth Bennet, uma jovem inteligente e espirituosa, e Fitzwilliam Darcy, um homem rico e orgulhoso.",
-    link: "",
+    link: "https://admiravelleitura.wordpress.com/2020/07/17/orgulho-e-preconceito-jane-austen/#:~:text=Sua%20primeira%20publicação%20data%20do,é%20a%20audácia%2C%20inteligência%20e",
     tags: "romance literatura inglesa Jane Austen",
     linkof:
       "https://www.amazon.com.br/Orgulho-Preconceito-especial-marcador-páginas/dp/6587817149/ref=sr_1_2?crid=O26CH1JC51DS&dib=eyJ2IjoiMSJ9.k3VedPu1TVYLJ2UY1qUdppSkDPVVxqV81JJw3tPmLsaCyIcEIMmIXj4EC3rvY2p2u1ZdnUjoXK3gRqkpSZhStEGzVCbnjA36zCSZqc9PZzV4UWfPY9D_UJCLgIjWZbTCTg7rEOPzEPH3JmfJT2CpvBKPdYBdNRnXor9zmNCXfs0lWMY3Qo5JWAgsfUBH-sWg9rBK8GRwTRgQ6Fmbyhvqe-gP2R4gG9OaOkmdPupouYlxBCq593PaJdnXcW69tDZfvC2E1gjj4uRB_qn6pTyU7oJnikyTqKueFY71TXIgcDk.NJDI3TK5n-azDvkZcxLI4v8rJuMm82WpGSmhBGnZR3E&dib_tag=se&keywords=orgulho+e+preconceito&qid=1726596290&sprefix=Orgul%2Caps%2C238&sr=8-2",
   },
+  {
+    titulo: "A Moreninha",
+    descricao:
+      "A Moreninha, de Joaquim Manuel de Macedo, é um clássico da literatura brasileira que narra a história de amor entre Leonardo e Carolina, um jovem rico e uma moça simples e bela.",
+    link: "https://www.dominiopublico.gov.br/download/texto/bv000009.pdf",
+    tags: "romance literatura brasileira literatura clássica Joaquim Manuel de Macedo",
+    linkof:
+      "https://www.amazon.com.br/Moreninha-Joaquim-Manuel-Macedo/dp/8535918561/ref=sr_1_1?crid=213023025&keywords=a+moreninha&qid=1575854867", // Link para a compra do livro na Amazon
+  },
+  {},
 ];
