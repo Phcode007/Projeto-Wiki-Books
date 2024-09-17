@@ -62,4 +62,11 @@ let dados = [
     linkof:
       "https://www.amazon.com.br/Moreninha-Joaquim-Manuel-Macedo/dp/8535918561/ref=sr_1_1?crid=213023025&keywords=a+moreninha&qid=1575854867", // Link para a compra do livro na Amazon
   },
+  {
+    titulo: "Harry Potter e a Pedra Filosofal",
+    autor: "J.K. Rowling",
+    anoPublicacao: 1997,
+    descricao:
+      "Harry Potter descobre que é um bruxo e começa sua jornada em Hogwarts, a Escola de Magia e Bruxaria.",
+  },
 ];
