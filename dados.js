@@ -137,4 +137,23 @@ let dados = [
     linkof:
       "https://www.amazon.com.br/Iracema-Jos%C3%A9-Alencar/dp/8578885252/ref=sr_1_1?crid=213023025&keywords=a+moreninha&qid=1575858467",
   },
+  {
+    titulo: "Método Financeiro do Primo Rico",
+    autor: "Thiago Nigro",
+    descricao:
+      "O 'Método Financeiro do Primo Rico' é um guia prático para quem deseja organizar suas finanças, investir de forma inteligente e alcançar a liberdade financeira. Através da metodologia ARCA, o autor Thiago Nigro apresenta um passo a passo para conquistar seus objetivos financeiros, ensinando a gastar bem, investir melhor e gerar mais renda.",
+    link: "https://pt.wikipedia.org/wiki/Thiago_Nigro",
+    tags: "finanças pessoais investimento educação financeira Thiago Nigro Primo Rico",
+    linkof:
+      "https://loja.literarebooks.com.br/autoajuda/metodo-financeiro-do-primo-rico",
+  },
+  {
+    titulo: "Pai Rico, Pai Pobre",
+    autor: "Robert T. Kiyosaki",
+    descricao:
+      "Pai Rico, Pai Pobre é um guia financeiro que ensina a diferença entre trabalhar pelo dinheiro e fazer com que o dinheiro trabalhe para você. Através da história de dois pais com visões opostas sobre dinheiro, o livro explora conceitos como ativos e passivos, fluxo de caixa e a importância da educação financeira. Kiyosaki desafia os leitores a pensarem de forma diferente sobre o dinheiro e a construir riqueza a longo prazo.",
+    link: "https://pt.wikipedia.org/wiki/Pai_Rico,_Pai_Pobre",
+    tags: "finanças pessoais investimento educação financeira Robert Kiyosaki Pai Rico Pai Pobre",
+    linkof: "https://www.amazon.com.br/Pai-rico-pai-pobre-anos/dp/8550801488",
+  },
 ];
