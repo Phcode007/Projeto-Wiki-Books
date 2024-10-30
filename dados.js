@@ -156,4 +156,69 @@ let dados = [
     tags: "finanças pessoais investimento educação financeira Robert Kiyosaki Pai Rico Pai Pobre",
     linkof: "https://www.amazon.com.br/Pai-rico-pai-pobre-anos/dp/8550801488",
   },
+  {
+    titulo: "E o Vento Levou",
+    autor: "Margaret Mitchell",
+    descricao: "Um romance épico que retrata a vida de Scarlett O'Hara, uma jovem mimada que precisa aprender a sobreviver em meio à Guerra Civil Americana. A história explora temas como amor, ambição, perda e a força do caráter humano.",
+    link: "https://pt.wikipedia.org/wiki/E_o_vento_levou",
+    tags: "romance histórico guerra civil americana sul dos estados unidos scarlett o'hara",
+    linkof: "https://www.amazon.com.br/vento-levou-Margaret-Mitchell/dp/8501087300",
+},
+{
+  titulo: "Morro dos Ventos Uivantes",
+  autor: "Emily Brontë",
+  descricao: "Um romance gótico que narra a história de amor turbulento entre Catherine Earnshaw e Heathcliff, ambientado nas vastas paisagens da Inglaterra. A obra explora temas como paixão, vingança e a natureza humana.",
+  link: "https://pt.wikipedia.org/wiki/Morro_dos_Ventos_Uivantes",
+  tags: "romance gótico paixão vingança literatura inglesa",
+  linkof: "https://www.amazon.com.br/Morro-dos-Ventos-Uivantes-Emily-Bronte/dp/8535914406"
+},
+{
+  titulo: "Psicologia Financeira",
+  autor: "William D. Bernstein",
+  descricao: "Um guia prático que explora a influência da psicologia nas decisões financeiras. O livro aborda temas como aversão à perda, viés de confirmação e como controlar as emoções para alcançar a liberdade financeira.",
+  link: "https://pt.wikipedia.org/wiki/Psicologia_financeira",
+  tags: "finanças pessoais psicologia investimento comportamento financeiro",
+  linkof: "https://www.amazon.com.br/psicologia-financeira-william-d-bernstein/dp/8535907603"
+},
+{
+  titulo: "A Bíblia",
+  autor: "Diversos autores",
+  descricao: "A sagrada escritura para diversas religiões abraâmicas, contendo narrativas históricas, poesias, profecias e ensinamentos morais. É considerada uma das obras mais influentes da história da humanidade.",
+  link: "https://pt.wikipedia.org/wiki/Bíblia",
+  tags: "religião cristianismo judaísmo islamismo livro sagrado",
+  linkof: "https://www.amazon.com.br/Bíblia-Sagrada-Almeida-Revista-Atualizada/dp/8535905066"
+},
+{
+  titulo: "As 48 Leis do Poder",
+  autor: "Robert Greene",
+  descricao: "Um livro que explora as leis do poder e da manipulação, baseado em estudos históricos e exemplos da vida real. O autor apresenta 48 leis que podem ser utilizadas para alcançar o sucesso e o domínio em diversas áreas da vida.",
+  link: "https://pt.wikipedia.org/wiki/As_48_Leis_do_Poder",
+  tags: "autoajuda poder manipulação estratégia",
+  linkof: "https://www.amazon.com.br/48-leis-poder-Robert-Greene/dp/8535910067"
+},
+{
+  titulo: "O Senhor dos Anéis",
+  autor: "J. R. R. Tolkien",
+  descricao: "Uma épica fantasia que narra a história de um hobbit chamado Frodo Bolseiro e sua jornada para destruir o Um Anel, uma poderosa arma capaz de dominar a Terra Média.",
+  link: "https://pt.wikipedia.org/wiki/O_Senhor_dos_Anéis",
+  tags: "fantasia épica hobbit anel único terra média",
+  linkof: "https://www.amazon.com.br/senhor-aneis-trilogia-J-R-R-Tolkien/dp/8535903172"
+},
+ {
+  titulo: "Fahrenheit 451",
+  autor: "Ray Bradbury",
+  descricao: "Um romance distópico que retrata um futuro onde livros são proibidos e queimados por bombeiros. A história acompanha Guy Montag, um bombeiro que começa a questionar o mundo ao seu redor e a importância da literatura.",
+  link: "https://pt.wikipedia.org/wiki/Fahrenheit_451",
+  tags: "distopia futuro livros proibidos censura sociedade",
+  linkof: "https://www.amazon.com.br/Fahrenheit-451-Ray-Bradbury/dp/8535914546",
+},
+ {
+  titulo: "Tal'Dorei Renascido",
+  sistema: "Dungeons & Dragons 5ª Edição",
+  autores: ["Matthew Mercer", "Equipe Critical Role"],
+  descricao: "Um cenário de campanha para Dungeons & Dragons que explora o reino de Tal'Dorei após a Calamidade. Os jogadores assumem o papel de heróis que moldarão o futuro deste mundo em recuperação.",
+  link: "https://criticalrole.com/taloreireborn",
+  tags: "D&D RPG fantasia Exandria Critical Role"
+ 
+  },
 ];
