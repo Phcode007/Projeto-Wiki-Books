@@ -219,6 +219,5 @@ let dados = [
   descricao: "Um cenário de campanha para Dungeons & Dragons que explora o reino de Tal'Dorei após a Calamidade. Os jogadores assumem o papel de heróis que moldarão o futuro deste mundo em recuperação.",
   link: "https://criticalrole.com/taloreireborn",
   tags: "D&D RPG fantasia Exandria Critical Role"
- 
   },
 ];
